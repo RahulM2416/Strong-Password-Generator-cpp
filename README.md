@@ -1,6 +1,6 @@
 # 🔐 Generate Strong Password - C++ Console Application
 
-A simple and effective C++ program to generate **strong, secure passwords** using a mix of uppercase letters, lowercase letters, digits, and special characters.
+A simple and effective C++ program to generate **strong, secure passwords** using a mix of uppercase letters, lowercase letters, digits.
 
 ---
 
