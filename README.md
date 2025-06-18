@@ -44,3 +44,10 @@ A simple and effective C++ program to generate **strong, secure passwords** usin
 ```bash
 g++ GenerateStrongPassword.cpp -o password_generator
 ./password_generator
+```
+
+**Windows (Command Prompt / Power Shell)
+```bash
+g++ GenerateStrongPassword.cpp -o password_generator.exe
+password_generator.exe
+```
