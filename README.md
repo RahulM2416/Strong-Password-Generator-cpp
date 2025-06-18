@@ -39,14 +39,14 @@ A simple and effective C++ program to generate **strong, secure passwords** usin
 - C++ compiler (`g++` or similar)
 
 ### Compile and Run
+- Run this or Check the Screenshots below , You can do in any way , but install C/C++ Compiler In Vs Code before doing it.
 
 **Linux / macOS:**
 ```bash
 g++ GenerateStrongPassword.cpp -o password_generator
 ./password_generator
 ```
-
-**Windows (Command Prompt / Power Shell) : **
+**Windows (Command Prompt / Power Shell) :**
 ```bash
 g++ GenerateStrongPassword.cpp -o password_generator.exe
 password_generator.exe
