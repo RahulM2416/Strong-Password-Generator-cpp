@@ -46,7 +46,7 @@ g++ GenerateStrongPassword.cpp -o password_generator
 ./password_generator
 ```
 
-**Windows (Command Prompt / Power Shell)
+**Windows (Command Prompt / Power Shell) : **
 ```bash
 g++ GenerateStrongPassword.cpp -o password_generator.exe
 password_generator.exe
