@@ -51,3 +51,10 @@ g++ GenerateStrongPassword.cpp -o password_generator
 g++ GenerateStrongPassword.cpp -o password_generator.exe
 password_generator.exe
 ```
+## 📸 Screenshots
+### Screenshot 01 
+![Screenshot01](https://github.com/RahulM2416/Strong-Password-Generator-cpp/blob/main/gsp1.png)
+
+### Screenshot 02 
+![Screenshot01](https://github.com/RahulM2416/Strong-Password-Generator-cpp/blob/main/gsp2.png)
+
