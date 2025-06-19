@@ -12,7 +12,7 @@ A simple and effective C++ program to generate **strong, secure passwords** usin
   - Uppercase letter
   - Lowercase letter
   - Digit
-  - Special character
+  
 
 ---
 
