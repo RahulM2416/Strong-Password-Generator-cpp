@@ -43,18 +43,18 @@ A simple and effective C++ program to generate **strong, secure passwords** usin
 
 **Linux / macOS:**
 ```bash
-g++ GenerateStrongPassword.cpp -o password_generator
-./password_generator
+g++ GenerateStrongPassword.cpp -o GenerateStrongPassword
+./GenerateStrongPassword
 ```
 **Windows (Command Prompt / Power Shell) :**
 ```bash
-g++ GenerateStrongPassword.cpp -o password_generator.exe
-password_generator.exe
+g++ GenerateStrongPassword.cpp -o GenerateStrongPassword.exe
+GenerateStrongPassword.exe
 ```
 ## 📸 Screenshots
 ### Screenshot 01 
 ![Screenshot01](https://github.com/RahulM2416/Strong-Password-Generator-cpp/blob/main/gsp1.png)
 
 ### Screenshot 02 
-![Screenshot01](https://github.com/RahulM2416/Strong-Password-Generator-cpp/blob/main/gsp2.png)
+![Screenshot02](https://github.com/RahulM2416/Strong-Password-Generator-cpp/blob/main/gsp2.png)
 
